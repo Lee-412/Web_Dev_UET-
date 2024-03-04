@@ -1,0 +1,11 @@
+1: Mô hình client - server
+
+2: Web Browser
+
+-, Là trình thông dịch (interpreter), nhận mã nguồn từ respone của Web server, thực hiện render giao diện cho người dùng 
+
+-, Chu trình RPW (Request - Parse - Wait)
+
+3: Web Server
+
+-, Nhận yêu cầu tù Web client , chuyển cho App server và nhận lại kết quả
